@@ -4,24 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="372ef5ed-f783-40f8-a791-a473d18330af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FileTitleLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FromMapHistogramElementBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HistogramElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HistogramStatsDisplayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StatsDisplayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TitleDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TitleLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TsvTitleDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/title.basics.tsv" afterDir="false" />
+    <list default="true" id="372ef5ed-f783-40f8-a791-a473d18330af" name="Changes" comment="Update the code for the Kata">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HistogramBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HistogramFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HistogramPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nuhacet66&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nuhacet66/kata2&quot;,
+    &quot;accountId&quot;: &quot;5ec280bf-e332-411a-9596-dc1fff5cf05f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -59,6 +59,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -79,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737032823828</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update the code for the Kata">
+      <option name="closed" value="true" />
+      <created>1737048006166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737048006166</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update the code for the Kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the code for the Kata" />
   </component>
 </project>
